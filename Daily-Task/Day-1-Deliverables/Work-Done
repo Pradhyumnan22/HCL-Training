@@ -1,0 +1,20 @@
+Day - 1 : Java Platform Basics + Agile/Scrum Basics
+
+Completed the Day-1 tasks successfully.
+
+• Installed and verified JDK 21.
+• Created and executed PlatformInfo.java from the terminal.
+• Printed Java version, OS information, processor count and JVM heap information.
+• Compiled the program and inspected Java bytecode using javap -c.
+• Used -verbose:class to observe JVM class loading.
+• Learned JVM, JRE, JDK, JVM architecture, class loading, runtime memory areas, interpreter, JIT and GC.
+• Understood the Java → javac → bytecode → JVM execution flow.
+• Learned Scrum fundamentals including sprints, standups, retrospectives, user stories, story points and Definition of Done.
+• Converted my project requirements into 8 user stories with acceptance criteria and story points.
+• Created the project's Definition of Done.
+• Created the project backlog in GitHub Projects.
+
+Deliverables completed:
+PlatformInfo.java, bytecode/class-loading evidence, 8 user stories, DoD and backlog board.
+
+GitHub Project BackLog Link: https://github.com/users/Pradhyumnan22/projects/1 
