@@ -1,0 +1,29 @@
+Day 2 - Java Basics + Git
+
+Project: Tour & Travel Package Booking
+
+Completed:
+
+1. Created a project-level .gitignore to ignore generated Java class files, build files, IDE files and logs.
+
+2. Updated the project README with development setup and Git workflow.
+
+3. Created TravelConstants.java containing reusable business constants for:
+   - Booking
+   - Payment
+   - Booking status
+   - User roles
+
+4. Created SampleTravelData.java containing 7 days of sample travel data using Java arrays.
+
+5. Compiled and executed the Java programs successfully.
+
+Deliverables:
+
+- GitHub repository
+- .gitignore
+- README
+- TravelConstants.java
+- 7 days of sample travel data using arrays
+
+Status: Completed
