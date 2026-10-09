@@ -35,4 +35,6 @@ The final UML documentation includes the resolved Day 5 merge result.
 
 This version was created on the `day-5-v2-branching-conflict` feature branch
 and merged into `main` after resolving a deliberate documentation conflict.
+
+The complete Day 5 workflow was reviewed through a GitHub pull request.
 ```
