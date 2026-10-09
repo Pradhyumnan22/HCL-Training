@@ -26,4 +26,8 @@
                  ▲                 ▲
                  │                 │
        FullRefundPolicy   PartialRefundPolicy
+
+## Merge Verification
+
+The final UML documentation includes the resolved Day 5 merge result.
 ```
